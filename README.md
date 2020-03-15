@@ -1,3 +1,4 @@
 # DataBase-Final-Project
-The project had developed but didn't uploaded on GitHub.
-It finished on January 2018
+This project is dedicated to a travel agent for creating and developing its DataBase.
+Developed by SQLServer
+It finished in 2018
